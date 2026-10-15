@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+outputs/
+*.draft.tsv
+*.draft.html
+*.draft.json

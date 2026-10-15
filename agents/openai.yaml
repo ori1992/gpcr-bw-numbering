@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPCR BW Numbering"
+  short_description: "Assign GPCR BW, ECL2, all loop and helix-8 numbers"
+  default_prompt: "Use $gpcr-bw-numbering to produce a complete residue table with BW, ECL2, all other loops, and helix-8 numbering following GPCRBWAnnotator v1.3."
